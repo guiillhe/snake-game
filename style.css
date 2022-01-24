@@ -1,0 +1,30 @@
+*{
+  background:#022b08;
+}
+body{
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+header{
+  height: 30vh;
+  width: 53vh;
+  min-width: 512px;
+  max-height: 220px;
+  background-repeat: 0;
+  background:url("capa.jpg") ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+#snake{
+  width: 53vh;
+  height: 53vh;
+  min-width: 512px;
+  min-height: 512px;
+
+}
